@@ -17,3 +17,12 @@ Still working on lession: Applied Accessibility
 Date:1/9/2019
 Already finished lesson: Basic HTML and HTML5, Basic CSS, Applied Visual Design, and Applied Accessibility.
 Started working on lesson: Responsive Web Design Principles.
+----------
+Date:1/10/2019
+NO LEARNING!
+----------
+Date:1/10/2019
+Already finished lesson: Basic HTML and HTML5, Basic CSS, Applied Visual Design, Applied Accessibility, and Responsive Web Design Principles.
+Started working on lesson: CSS Flexbox
+Already finished lesson: Basic HTML and HTML5, Basic CSS, Applied Visual Design, Applied Accessibility, Responsive Web Design Principles, and CSS Flexbox.
+Started working on lesson: CSS Grid.
